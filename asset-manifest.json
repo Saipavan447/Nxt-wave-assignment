@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Nxt-wave-assignment/static/css/main.34099ebc.chunk.css",
+    "main.js": "/Nxt-wave-assignment/static/js/main.dd324386.chunk.js",
+    "main.js.map": "/Nxt-wave-assignment/static/js/main.dd324386.chunk.js.map",
+    "runtime-main.js": "/Nxt-wave-assignment/static/js/runtime-main.1ec07804.js",
+    "runtime-main.js.map": "/Nxt-wave-assignment/static/js/runtime-main.1ec07804.js.map",
+    "static/css/2.a1b55d64.chunk.css": "/Nxt-wave-assignment/static/css/2.a1b55d64.chunk.css",
+    "static/js/2.6d6c829f.chunk.js": "/Nxt-wave-assignment/static/js/2.6d6c829f.chunk.js",
+    "static/js/2.6d6c829f.chunk.js.map": "/Nxt-wave-assignment/static/js/2.6d6c829f.chunk.js.map",
+    "index.html": "/Nxt-wave-assignment/index.html",
+    "static/css/2.a1b55d64.chunk.css.map": "/Nxt-wave-assignment/static/css/2.a1b55d64.chunk.css.map",
+    "static/css/main.34099ebc.chunk.css.map": "/Nxt-wave-assignment/static/css/main.34099ebc.chunk.css.map",
+    "static/js/2.6d6c829f.chunk.js.LICENSE.txt": "/Nxt-wave-assignment/static/js/2.6d6c829f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ec07804.js",
+    "static/css/2.a1b55d64.chunk.css",
+    "static/js/2.6d6c829f.chunk.js",
+    "static/css/main.34099ebc.chunk.css",
+    "static/js/main.dd324386.chunk.js"
+  ]
+}
